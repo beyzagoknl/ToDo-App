@@ -12,7 +12,13 @@ Here is the [link](https://yourworldtodolist.netlify.app/) for the website.
 
 Here your world!
 
-This application starts with a nice sentence. Then click the link to create a list and create your list. Whether you want to delete or update, everything is in your hands. Delete, change, create.
+This application starts with a nice sentence.
+
+Then click the link to create a list and create your list. Whether you want to delete or update, everything is in your hands.
+
+Delete, change, create. 
+
+To update, first click on the update button of the task you want to update, then enter your update and it's there!
 
 ## 3. Application
 
