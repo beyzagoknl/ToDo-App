@@ -10,21 +10,9 @@ Here is the [link](https://yourworldtodolist.netlify.app/) for the website.
 
 ## 2. Description
 
-Please try my app with this information:
+Here your world!
 
-user ID : jenny
-password: 12345
-
-or
-
-user ID : harry
-password : 12345
-
-The PhotoJournal App is a web application that helps you to see all photos.
-
-When you use user Id and password you can see comment box to each photo and you can see your information like your like, your messages, your friends. Don't forget to look the down at the page, every user has a message with own name!
-
-This is my free time and first React project. I improved my React skill.
+This application starts with a nice sentence. Then click the link to create a list and create your list. Whether you want to delete or update, everything is in your hands. Delete, change, create.
 
 ## 3. Application
 
