@@ -93,3 +93,22 @@ label .task {
   border: 2px solid #da5552;
   border-radius: 50px 20px;
 }
+@media screen and (min-width: 768px) {
+  .meal-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+  .meal-item {
+    margin: 0;
+  }
+  .meal-details {
+    width: 700px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .meal-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
